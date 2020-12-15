@@ -1,8 +1,10 @@
-"""
+""
 functions.py
 A python package for analyzing and visualizing xyz files.
 
 Handles the primary functions
+The source code goes here.
+
 """
 
 
